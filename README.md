@@ -25,4 +25,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 2. Luffy
 3. Takumi Usui
 4. Kujo Jotaro
-
+5. Misho Mai

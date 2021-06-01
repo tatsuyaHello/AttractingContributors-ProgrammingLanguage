@@ -28,3 +28,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 5. Misho Mai
 6. Saitama
 7. Protagonist
+8. Monkey D Luffy

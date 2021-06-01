@@ -20,5 +20,13 @@ https://github.com/raux/AttractingContributors-Anime (Anime topic)
 
 https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
-# List of Apps
-- Twitter
+# List of Anime Character
+1. Son Goku
+2. Luffy
+3. Takumi Usui
+4. Kujo Jotaro
+5. Misho Mai
+6. Saitama
+7. Protagonist
+8. Monkey D Luffy
+9. 幕之内一歩

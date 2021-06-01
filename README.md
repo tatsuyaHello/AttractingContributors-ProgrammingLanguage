@@ -27,4 +27,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 4. Kujo Jotaro
 5. Misho Mai
 6. Saitama
-
+7. Protagonist

@@ -29,3 +29,4 @@ Goal - I want contributors to help me list some favorite musics.
 8. 長途夜車 / 滅火器(Fire EX.)
 9. Uptown Girl / Billy Joel
 10. うっせーわ/Ado
+11. タイトロープ / ASIAN KUNG-FU GENERATION

@@ -21,13 +21,13 @@ https://github.com/raux/AttractingContributors-Anime (Anime topic)
 https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
 # List of Programming Language
-- Go 
 - Rust
 - C++
 - kotlin
 - Perl
 - Python
 - JavaScript
+- verilog
 - Java
 - fortran
 - Ruby

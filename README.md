@@ -30,3 +30,4 @@ Goal - I want contributors to help me list some favorite musics.
 9. Uptown Girl / Billy Joel
 10. うっせーわ/Ado
 11. タイトロープ / ASIAN KUNG-FU GENERATION
+12. 空の青さを知る人よ / あいみょん

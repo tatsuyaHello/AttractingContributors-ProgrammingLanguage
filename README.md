@@ -21,4 +21,7 @@ https://github.com/raux/AttractingContributors-Anime (Anime topic)
 https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
 # List of Favorite Tea
-- protea
+1. chamomile
+2. jasmine tea
+3. protea
+
